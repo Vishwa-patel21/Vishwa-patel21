@@ -1,13 +1,13 @@
 # Hi there, I'm Vishwa Patel👋
-I'm a Machine Learning Engineer and Data Analyst with a knack for building strong, reliable systems that power websites and apps.
+As a Machine Learning Engineer and Data Analyst, I specialize in developing robust systems to drive websites and apps.
 
 # :dizzy: About Me:
-:rocket: I'm eager to collaborate on innovative projects in machine learning, data analysis, natural language processing and computer vision.<br>
-:pushpin: I'm currently seeking job opportunities in Machine Learning Engineering, Data Analysis, or as a Data Scientist.<br>
-:globe_with_meridians: I'm currently expanding my proficiency in different technologies like AWS, GCP, Tableau, and Power BI.<br>
-:thought_balloon: I'm here to ensure that your online projects work successfully. Let's share knowledge and bring your ideas to reality!<br>
-:art: Fun Fact: I love exploring knowledge, engaging in diverse topics, and enjoy playing cricket in my free time.<br>
-:inbox_tray: Reach out to me at vishwapatel2403@gmail.com <br>
+:rocket: I'm enthusiastic about collaborating on cutting-edge projects spanning machine learning, data analysis, natural language processing, and computer vision.<br>
+:pushpin: I'm actively seeking roles in Machine Learning Engineering, Data Analysis, or as a Data Scientist.<br>
+:globe_with_meridians: I'm currently deepening my expertise across various technologies, including AWS, GCP, Tableau, and Power BI.<br>
+:thought_balloon: My aim is to ensure the seamless functionality of your online ventures. Let's exchange knowledge and transform your concepts into reality!<br>
+:art: Personal Interest: I thrive on exploring diverse subjects and relish playing cricket in my free time.<br>
+:inbox_tray: You can reach me at vishwapatel2403@gmail.com <br>
 
 ## :globe_with_meridians: Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwapatel2103/) 
