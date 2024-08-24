@@ -7,7 +7,7 @@ As a Machine Learning Engineer and Data Analyst, I specialize in developing robu
 :globe_with_meridians: I'm currently deepening my expertise across various technologies, including AWS, GCP, Tableau, and Power BI.<br>
 :thought_balloon: My aim is to ensure the seamless functionality of your online ventures. Let's exchange knowledge and transform your concepts into reality!<br>
 :art: Personal Interest: I thrive on exploring diverse subjects and relish playing cricket in my free time.<br>
-:inbox_tray: You can reach me at vishwapatel2403@gmail.com <br>
+:inbox_tray: You can reach me at vishwapatel2103@gmail.com <br>
 
 ## :globe_with_meridians: Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwapatel2103/) 
