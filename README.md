@@ -6,7 +6,6 @@ As a Machine Learning Engineer and Data Analyst, I specialize in developing robu
 :pushpin: I'm actively seeking roles in Machine Learning Engineering, Data Analysis, or as a Data Scientist.<br>
 :globe_with_meridians: I'm currently deepening my expertise across various technologies, including AWS, GCP, Tableau, and Power BI.<br>
 :thought_balloon: My aim is to ensure the seamless functionality of your online ventures. Let's exchange knowledge and transform your concepts into reality!<br>
-:art: Personal Interest: I thrive on exploring diverse subjects and relish playing cricket in my free time.<br>
 :inbox_tray: You can reach me at vishwapatel2103@gmail.com <br>
 
 ## :globe_with_meridians: Socials
