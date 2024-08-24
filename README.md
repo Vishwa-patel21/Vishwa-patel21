@@ -9,8 +9,8 @@ I'm a Machine Learning Engineer and Data Analyst with a knack for building stron
 :art: Fun Fact: I love exploring knowledge, engaging in diverse topics, and enjoy playing cricket in my free time.<br>
 :inbox_tray: Reach out to me at vishwapatel2403@gmail.com <br>
 
-## :globe_with_meridians: Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/vishwapatel2103) 
+## :globe_with_meridians: Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwapatel2103/) 
 
 # :computer: Tech Stack:
 ## 👩🏻‍💻 Programming and Markup Languages
