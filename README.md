@@ -34,9 +34,9 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 ### **Algorithm Development** 🧠
 - ![Algorithm Development](https://img.shields.io/badge/-Algorithm%20Development-0084FF) ![Numerical Analysis](https://img.shields.io/badge/-Numerical%20Analysis-2D72D9)
 
-## 📊 GitHub Stats
+## 📊 GitHub Status
 
-![Vishwa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vishwa-patel21&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
+![Vishwa's GitHub Status](https://github-readme-stats.vercel.app/api?username=Vishwa-patel21&show_icons=true&hide_title=false&hide=prs&count_private=true&include_all_commits=true&hide_border=true&theme=radical)
 
 ## 📅 Contributions
 
