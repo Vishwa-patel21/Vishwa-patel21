@@ -1,5 +1,3 @@
-
-```markdown
 # 👋 Hi, I'm Vishwa Patel!
 
 Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computational Science** student at Laurentian University with a background in Computer Engineering and extensive experience in data science, web development, and machine learning.
@@ -19,39 +17,22 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 ## 🛠️ Technical Stack
 
 ### **Data Science & Analytics** 📊
-- ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-blue)
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellow)
-- ![NLP](https://img.shields.io/badge/-NLP-green)
-- ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-orange)
-- ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-red)
-- ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple)
-- ![Excel](https://img.shields.io/badge/-Excel-lightgrey)
+- ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-blue) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellow) ![NLP](https://img.shields.io/badge/-NLP-green) ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-orange) ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-red) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple) ![Excel](https://img.shields.io/badge/-Excel-lightgrey)
 
 ### **Web Development** 🌐
-- ![HTML](https://img.shields.io/badge/-HTML5-ff5722)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C)
-- ![React](https://img.shields.io/badge/-React-61DAFB)
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC)
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883)
+- ![HTML5](https://img.shields.io/badge/-HTML5-ff5722) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C) ![React](https://img.shields.io/badge/-React-61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC) ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883)
 
 ### **Cloud Computing** ☁️
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E)
-- ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-00A1E0)
-- ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31)
+- ![AWS](https://img.shields.io/badge/-AWS-232F3E) ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-00A1E0) ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31) ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4)
 
 ### **Data Management & Security** 🔒
-- ![SQL](https://img.shields.io/badge/-SQL-003B57)
-- ![Data Security](https://img.shields.io/badge/-Data%20Security-FF6F61)
-- ![Tableau](https://img.shields.io/badge/-Tableau-E97627)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57) ![Data Security](https://img.shields.io/badge/-Data%20Security-FF6F61) ![Tableau](https://img.shields.io/badge/-Tableau-E97627)
 
 ### **Programming Languages** 🐍
-- ![Python](https://img.shields.io/badge/-Python-3776AB)
-- ![MATLAB](https://img.shields.io/badge/-MATLAB-FC4F4F)
+- ![Python](https://img.shields.io/badge/-Python-3776AB) ![MATLAB](https://img.shields.io/badge/-MATLAB-FC4F4F)
 
 ### **Algorithm Development** 🧠
-- ![Algorithm Development](https://img.shields.io/badge/-Algorithm%20Development-0084FF)
-- ![Numerical Analysis](https://img.shields.io/badge/-Numerical%20Analysis-2D72D9)
+- ![Algorithm Development](https://img.shields.io/badge/-Algorithm%20Development-0084FF) ![Numerical Analysis](https://img.shields.io/badge/-Numerical%20Analysis-2D72D9)
 
 ## 📊 GitHub Stats
 
@@ -65,9 +46,6 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 
 ![Vishwa's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-patel21&hide_title=false&hide=html&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-
-[![Vishwa's Trophies](https://github-profile-trophy.vercel.app/?username=Vishwa-patel21&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 💼 Professional Experience
 
@@ -108,3 +86,5 @@ Ahmedabad, Gujarat
 
 - **Email**: [vishwapatel2103@gmail.com](mailto:vishwapatel2103@gmail.com)
 - **LinkedIn**: [linkedin.com/in/vishwapatel2103/](https://linkedin.com/in/vishwapatel2103)
+
+
