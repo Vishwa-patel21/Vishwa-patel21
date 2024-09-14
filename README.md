@@ -16,23 +16,63 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 
 ## 🛠️ Technical Stack
 
-### **Data Science & Analytics** 📊
-- ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-blue) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-yellow) ![NLP](https://img.shields.io/badge/-NLP-green) ![Data Cleaning](https://img.shields.io/badge/-Data%20Cleaning-orange) ![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-red) ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-purple) ![Excel](https://img.shields.io/badge/-Excel-lightgrey)
+### **Programming Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C) 
+![SQL](https://img.shields.io/badge/-SQL-003B57) 
+![MATLAB](https://img.shields.io/badge/-MATLAB-FC4F4F)
 
-### **Web Development** 🌐
-- ![HTML5](https://img.shields.io/badge/-HTML5-ff5722) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C) ![React](https://img.shields.io/badge/-React-61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC) ![Vue.js](https://img.shields.io/badge/-Vue.js-42b883)
+### **Machine Learning & AI**
+![SVM](https://img.shields.io/badge/-SVM-0084FF) 
+![Bayes Classifier](https://img.shields.io/badge/-Bayes%20Classifier-FF6F61) 
+![RNN](https://img.shields.io/badge/-RNN-2D72D9) 
+![LSTM](https://img.shields.io/badge/-LSTM-4B8BBE) 
+![NLP](https://img.shields.io/badge/-NLP-green) 
+![Predictive Analytics](https://img.shields.io/badge/-Predictive%20Analytics-blue) 
+![Sentiment Analysis](https://img.shields.io/badge/-Sentiment%20Analysis-yellow) 
+![Recommender Systems](https://img.shields.io/badge/-Recommender%20Systems-lightgrey)
 
-### **Cloud Computing** ☁️
-- ![AWS](https://img.shields.io/badge/-AWS-232F3E) ![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-00A1E0) ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-569A31) ![Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4)
+### **Data Analytics & Visualization**
+![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-orange) 
+![ETL](https://img.shields.io/badge/-ETL%20(Extract,%20Transform,%20Load)-purple) 
+![Power BI](https://img.shields.io/badge/-Power%20BI-0078D4) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627) 
+![Excel](https://img.shields.io/badge/-Excel-lightgrey)
 
-### **Data Management & Security** 🔒
-- ![SQL](https://img.shields.io/badge/-SQL-003B57) ![Data Security](https://img.shields.io/badge/-Data%20Security-FF6F61) ![Tableau](https://img.shields.io/badge/-Tableau-E97627)
+### **Web Development**
+![HTML](https://img.shields.io/badge/-HTML5-ff5722) 
+![CSS](https://img.shields.io/badge/-CSS3-1572B6) 
+![Vue.js](https://img.shields.io/badge/-Vue.js-42b883) 
+![React](https://img.shields.io/badge/-React-61DAFB) 
+![Redux](https://img.shields.io/badge/-Redux-764ABC)
 
-### **Programming Languages** 🐍
-- ![Python](https://img.shields.io/badge/-Python-3776AB) ![MATLAB](https://img.shields.io/badge/-MATLAB-FC4F4F)
+### **Cloud Computing**
+![AWS S3](https://img.shields.io/badge/-AWS%20S3-569A31) 
+![AWS Amplify](https://img.shields.io/badge/-AWS%20Amplify-00A1E0) 
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0078D4)
 
-### **Algorithm Development** 🧠
-- ![Algorithm Development](https://img.shields.io/badge/-Algorithm%20Development-0084FF) ![Numerical Analysis](https://img.shields.io/badge/-Numerical%20Analysis-2D72D9)
+### **Database Management**
+![MS SQL](https://img.shields.io/badge/-MS%20SQL-003B57) 
+![Cloud Storage Management](https://img.shields.io/badge/-Cloud%20Storage%20Management-00A1E0) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
+
+### **Cybersecurity**
+![AI in Cybersecurity](https://img.shields.io/badge/-AI%20in%20Cybersecurity-FF6F61) 
+![Encryption](https://img.shields.io/badge/-Encryption-003B57) 
+![RBAC](https://img.shields.io/badge/-RBAC%20(Role-Based%20Access%20Control)-0078D4)
+
+### **Health Informatics**
+![EHR Integration](https://img.shields.io/badge/-EHR%20Integration-4B8BBE)
+
+### **Agile Methodologies**
+![Scrum](https://img.shields.io/badge/-Scrum-0084FF) 
+![Sprint Planning](https://img.shields.io/badge/-Sprint%20Planning-FF6F61) 
+![Cross-Functional Team Collaboration](https://img.shields.io/badge/-Cross-Functional%20Team%20Collaboration-2D72D9)
+
+### **Data Security**
+![Authentication Protocols](https://img.shields.io/badge/-Authentication%20Protocols-FF6F61) 
+![Secure Data Access](https://img.shields.io/badge/-Secure%20Data%20Access-003B57)
+
 
 ## 📊 GitHub Status
 
