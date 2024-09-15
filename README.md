@@ -59,7 +59,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 ### **Cybersecurity**
 ![AI in Cybersecurity](https://img.shields.io/badge/-AI%20in%20Cybersecurity-FF6F61) 
 ![Encryption](https://img.shields.io/badge/-Encryption-003B57) 
-![RBAC](https://img.shields.io/badge/-RBAC%20(Role-Based%20Access%20Control)-0078D4)
+
 
 ### **Health Informatics**
 ![EHR Integration](https://img.shields.io/badge/-EHR%20Integration-4B8BBE)
@@ -67,7 +67,7 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 ### **Agile Methodologies**
 ![Scrum](https://img.shields.io/badge/-Scrum-0084FF) 
 ![Sprint Planning](https://img.shields.io/badge/-Sprint%20Planning-FF6F61) 
-![Cross-Functional Team Collaboration](https://img.shields.io/badge/-Cross-Functional%20Team%20Collaboration-2D72D9)
+
 
 ### **Data Security**
 ![Authentication Protocols](https://img.shields.io/badge/-Authentication%20Protocols-FF6F61) 
