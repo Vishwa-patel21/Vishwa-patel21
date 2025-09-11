@@ -86,25 +86,6 @@ Welcome to my GitHub profile! I'm a passionate and driven **Masters in Computati
 
 ![Vishwa's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwa-patel21&hide_title=false&hide=html&layout=compact&theme=radical)
 
-
-## 💼 Professional Experience
-
-### **Brainy Beam Technologies Pvt Ltd.**
-*Data Science Intern*  
-May 2022 – July 2022  
-Ahmedabad, Gujarat
-
-- Developed a recommender system utilizing linguistics and contextual-based approaches with an accuracy rate of approximately 92%.
-- Applied NLP methodologies to analyze and predict sentiments using RNN and LSTM models.
-
-### **Budventure Technologies Pvt. Ltd.**
-*Web Developer Intern*  
-January 2022 – March 2022  
-Ahmedabad, Gujarat
-
-- Developed responsive UI with HTML, CSS, and JavaScript, resulting in a 20% increase in user engagement.
-- Collaborated in an agile environment, contributing to 10+ successful sprints.
-
 ## 📜 Certifications
 
 - **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**  
